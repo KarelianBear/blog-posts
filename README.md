@@ -1,3 +1,4 @@
+# [directory here](https://karelianbear.github.io/blog-posts/)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/KarelianBear/blog-posts/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
